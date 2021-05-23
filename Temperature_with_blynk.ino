@@ -38,7 +38,7 @@ void sendSensor()
   // Please don't send more that 10 values per second.
   Blynk.virtualWrite(V5, 100-h);
   Blynk.virtualWrite(V6, t);
-  Anuradha05
+  
 }
 void setup()
 { digitalWrite(D0,HIGH);
