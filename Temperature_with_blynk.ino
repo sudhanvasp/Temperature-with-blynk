@@ -13,11 +13,11 @@ DHT dht(DHTPIN, DHTTYPE);
 BlynkTimer timer;
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "UCh2mfmryUUfq9RR_9tWN96mR4-5rhwe";
+char auth[] = "########################";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "SMPFarm2";
+char ssid[] = "#################";
 char pass[] = "###";
 
 void sendSensor()
